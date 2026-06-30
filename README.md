@@ -83,19 +83,19 @@ streamlit run app.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ---
 
 ### Spam Prediction
 
-![Spam Prediction](screenshots/spam_prediction.png)
+![Spam Prediction](screenshots/spam_prediction.png.png)
 
 ---
 
 ### Not Spam Prediction
 
-![Not Spam Prediction](screenshots/not_spam_prediction.png)
+![Not Spam Prediction](screenshots/not_spam_prediction.png.png)
 
 ---
 
