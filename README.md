@@ -83,15 +83,19 @@ streamlit run app.py
 
 ### Home Page
 
-(Add home.png here after uploading to GitHub)
+![Home Page](screenshots/home.png)
+
+---
 
 ### Spam Prediction
 
-(Add spam_prediction.png here)
+![Spam Prediction](screenshots/spam_prediction.png)
+
+---
 
 ### Not Spam Prediction
 
-(Add not_spam_prediction.png here)
+![Not Spam Prediction](screenshots/not_spam_prediction.png)
 
 ---
 
